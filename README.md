@@ -1,1 +1,1 @@
-# M2TGCN
+# MMTGCN
