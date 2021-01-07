@@ -1,1 +1,4 @@
-# MMTGCN
+# MMTGCN (Mutual Multi-scale Triplet GCN)
+=========================================
+
+
